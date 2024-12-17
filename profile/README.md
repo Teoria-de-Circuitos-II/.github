@@ -16,8 +16,8 @@ Esta organización de github pertenece a la cátedra de Teoría de Circuitos II 
     <a href="https://github.com/Teoria-de-Circuitos-II/L2-Recursos-Python">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Teoria-de-Circuitos-II&repo=L2-Recursos-Python&theme=tokyonight&hide_border=true" alt="Recursos de Python">
     </a>
-    <a href="https://github.com/Teoria-de-Circuitos-II/TC2-SCH-Wizard">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Teoria-de-Circuitos-II&repo=TC2-SCH-Wizard&theme=tokyonight&hide_border=true" alt="SCH Wizard">
+    <a href="https://github.com/Teoria-de-Circuitos-II/Spice-a-PDF---Lopez-Tool">
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Teoria-de-Circuitos-II&repo=TC2-SCH-Wizard&theme=tokyonight&hide_border=true" alt="Spice a PDF">
     </a>
     <a href="https://github.com/Teoria-de-Circuitos-II/TC2-FilterTool">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Teoria-de-Circuitos-II&repo=TC2-FilterTool&theme=tokyonight&hide_border=true" alt="Filter tool">
